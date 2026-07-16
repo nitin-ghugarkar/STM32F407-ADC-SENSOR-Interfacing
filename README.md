@@ -67,6 +67,3 @@ Core/
 * GPIO
 * Proteus
 
-## Author
-
-**Nitin Ghugarkar**
